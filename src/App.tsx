@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+//changes
 import { auth } from "./firebase";
 import Profile from "./components/Profile";
 import Home from "./components/Home";
